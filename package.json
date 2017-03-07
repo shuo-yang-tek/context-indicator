@@ -1,0 +1,23 @@
+{
+    "name": "context-indicator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/shuo-yang-tek/context-indicator.git"
+    },
+    "dependencies": {
+        "is-stream": "^1.0.0",
+        "colors": "^1.0.0"
+    },
+    "author": "Shuo Yang",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/shuo-yang-tek/context-indicator/issues"
+    },
+    "homepage": "https://github.com/shuo-yang-tek/context-indicator#readme"
+}
