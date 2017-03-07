@@ -14,6 +14,10 @@
         "is-stream": "^1.0.0",
         "colors": "^1.0.0"
     },
+    "files": [
+        "index.js",
+        "package.json"
+    ],
     "author": "Shuo Yang",
     "license": "MIT",
     "bugs": {
